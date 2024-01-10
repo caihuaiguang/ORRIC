@@ -53,7 +53,7 @@ for batch_size in [1000]:
 
     """
     mobilenet
-(chg) [caihuaiguang@earth /home/caihuaiguang/inference_training/EATA/CIFAR]$ python measure_time.py
+    python measure_time.py
 8
 8 * 8 :  5.106866456667582 ms
 16
@@ -65,7 +65,7 @@ for batch_size in [1000]:
     """
 
     """
-(chg) [caihuaiguang@earth /home/caihuaiguang/inference_training/EATA/CIFAR]$ python measure_time.py
+python measure_time.py
 2
 8 * 8 :  3.2773171242078147 ms
 16 * 16 :  3.311416478951772 ms
