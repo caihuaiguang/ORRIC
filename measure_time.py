@@ -52,19 +52,6 @@ for batch_size in [1000]:
         print(i,"*",i,": ",mean_syn, "us")
 
     """
-    mobilenet
-    python measure_time.py
-8
-8 * 8 :  5.106866456667582 ms
-16
-16 * 16 :  5.151488223075867 ms
-24
-24 * 24 :  5.261584328015645 ms
-32
-32 * 32 :  5.256425499916077 ms
-    """
-
-    """
 python measure_time.py
 2
 8 * 8 :  3.2773171242078147 ms
