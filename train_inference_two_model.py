@@ -43,7 +43,7 @@ def configuration_algorithm(_T_paras, time, batch_size, property_1):
     Retraining_configuration_list = np.array([0, 0.1, 0.2, 0.3, 0.5, 1.0])
     Inference_configuration_list = np.asarray([20,24,28,32])
     Retraining_configuration_A_list =  np.array([0, 0.1, 0.2, 0.3, 0.5, 1.0])
-    # 推理一个样本需要的teacher MACs+ student 训练的 MACs
+    # The MACs required for a single sample, including MACs of inference on the teacher model and retraining on the student model.
     Retraining_configuration_C_list =  np.array([0, 0.1, 0.2, 0.3, 0.5, 1.0])
     for index in range(len(Retraining_configuration_C_list)):
         if Retraining_configuration_C_list[index]<=1:
