@@ -3,7 +3,7 @@
 - pytorch, numpy, thop
 # Usage
 
-This is the implementation of ORRIC using the trained model in folder `model`.
+This is the implementation of ORRIC using the trained model in folder `models`.
 
 The corresponding dataset can be found at [https://zenodo.org/records/2535967](https://zenodo.org/records/2535967). Please decompress `CIFAR-10-C.tar` in the root directory to obtain the `CIFAR-10-C` folder.
 ```
