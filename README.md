@@ -26,6 +26,11 @@ python measure_time.py
 python performance.py
 ```
 
+
+# Slides
+
+[Slides](https://caihuaiguang.github.io/Publication/INFOCOM2024/Online_Resource_Allocation_for_Edge_Intelligence_with_Colocated_Model_Retraining_and_Inference_slides.pdf)
+
 # Citation
 ```
 @INPROCEEDINGS{10621206,
