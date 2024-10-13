@@ -33,16 +33,15 @@ python performance.py
 
 # Citation
 ```
-@INPROCEEDINGS{10621206,
-  author={Cai, Huaiguang and Zhou, Zhi and Huang, Qianyi},
+@INPROCEEDINGS{cai2024ORRIC,
+  author={Huaiguang Cai and
+          Zhi Zhou and
+          Qianyi Huang},
   booktitle={IEEE INFOCOM 2024 - IEEE Conference on Computer Communications}, 
   title={Online Resource Allocation for Edge Intelligence with Colocated Model Retraining and Inference}, 
   year={2024},
-  volume={},
-  number={},
   pages={1900-1909},
   doi={10.1109/INFOCOM52122.2024.10621206}}
-
 ```
 
 # License
